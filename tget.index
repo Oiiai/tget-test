@@ -1,0 +1,6 @@
+[index]
+name = "Example Package"
+version = "0.0.1"
+who = { make = "Maker", upload = "Uploader" }
+deps = {}
+introduce = "a Example Package of TGETdownPM"
